@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arvind Shankar</h1>
-<h3 align="center">passionate in building and developing Data Products and leveraging Data Science and AI</h3>
+<h3 align="center">Passionate in building and developing Data Products and leveraging Data Science and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvindps1984&label=Profile%20views&color=0e75b6&style=flat" alt="arvindps1984" /> </p>
 
